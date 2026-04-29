@@ -1,0 +1,16 @@
+.git
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+outputs/
+*.mp4
+*.mov
+*.wav
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+.cache/

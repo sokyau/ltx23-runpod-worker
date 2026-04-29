@@ -1,0 +1,14 @@
+{
+  "input": {
+    "first_image_url": "https://v3b.fal.media/files/b/0a981e3c/Yr5Xm2tYylalMEJk-RCgc.jpg",
+    "last_image_url": null,
+    "input_audio_url": null,
+    "prompt": "subtle cinematic movement, warm lamplight, quiet night, open Bible, contemplative mood, slow breathing motion, gentle camera push",
+    "duration": 3,
+    "enhance_prompt": false,
+    "seed": 1007968632,
+    "height": 704,
+    "width": 1280,
+    "output_key_prefix": "formula-faith/smoke/ltx23"
+  }
+}
