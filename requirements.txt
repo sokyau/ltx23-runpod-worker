@@ -1,7 +1,6 @@
 runpod==1.7.13
 requests==2.32.5
 boto3==1.42.4
-gradio==5.53.3
 transformers==4.57.6
 accelerate
 torch==2.8.0
